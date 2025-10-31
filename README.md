@@ -2,15 +2,15 @@
 <h3 align="center">TypeScript Enthusiast | Node.js Practitioner</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=DanzzAraAra&label=Profile%20Views&color=0e75b6&style=flat" alt="danzzarara" /> 
+  <img src="https://komarev.com/ghpvc/?username=Kayzen-dev-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="kayzendevtech" /> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/DanzzAraAra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DanzzAraAra" height="30" width="40" />
+  <a href="https://tiktok.com/in/scz_kayzen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kayzen-dev-tech" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/DanzzAraAra" target="blank">
+  <a href="https://youtube.com/DanzzAraAra" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DanzzAraAra" height="30" width="40" />
   </a>
 </p>
