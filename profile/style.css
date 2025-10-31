@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    /* Warna latar belakang yang lembut dan netral */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Kotak bayangan halus */
+}
+
+header {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    /* Garis pemisah yang sederhana */
+}
+
+h1 {
+    color: #e4007f; /* Warna pink yang cerah (sakura) */
+}
+
+h2 {
+    color: #4a90e2; /* Warna biru yang tenang (air) */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+    /* Garis pemisah yang sederhana */
+}
+
+/* Animasi Hover Sederhana */
+a {
+    color: #4a90e2;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #e4007f; /* Ganti warna saat dihover */
+  }
