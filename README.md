@@ -15,7 +15,7 @@ Saya adalah seorang **Pengembang Web** 🌐 dan **Mahasiswa** 🎓 yang berseman
 *   Saat ini saya sedang belajar tentang: Bot WhatsApp MD 🤖 dan pengembangan backend yang lebih mendalam.
 *   Saya tertarik dengan: Otomasi ⚙️, pengembangan web modern ✨, dan teknologi yang meningkatkan efisiensi ⚡.
 *   Saya sedang mencari kolaborasi dalam: Proyek-proyek open source yang berfokus pada Node.js atau Bot WhatsApp. 🤝
-*   Anda bisa menghubungi saya di: email: kayzenxd96@gmail.com whatsapp: 628152313006 📧
+*   Anda bisa menghubungi saya di: email: kayzenxd96@gmail.com whatsapp: [628152313006](https://wa.me/628152313006) 📧
 
 ## Proyek 💡
 
@@ -72,7 +72,7 @@ I am a **Web Developer** 🌐 and **Student** 🎓 passionate about web applicat
 *   Currently, I am learning about: WhatsApp MD Bots 🤖 and deeper backend development.
 *   I am interested in: Automation ⚙️, modern web development ✨, and technologies that improve efficiency ⚡.
 *   I am looking for collaboration in: Open-source projects focused on Node.js or WhatsApp Bots. 🤝
-*   You can contact me at: email: kayzenxd96@gmail.com whatsapp: 628152313006 📧
+*   You can contact me at: email: kayzenxd96@gmail.com whatsapp: [628152313006](https://wa.me/628152313006) 📧
 
 ## Projects 💡
 
@@ -129,7 +129,7 @@ Thank you for visiting my profile! Feel free to contact me if you have any quest
 *   現在、WhatsApp MDボット🤖とより深いバックエンド開発について学んでいます。
 *   自動化⚙️、現代的なウェブ開発✨、そして効率を高める技術⚡に興味があります。
 *   Node.jsやWhatsAppボットに焦点を当てたオープンソースプロジェクトでコラボレーションを探しています。🤝
-*   連絡先：メール：kayzenxd96@gmail.com WhatsApp: 628152313006 📧
+*   連絡先：メール：kayzenxd96@gmail.com WhatsApp: [628152313006](https://wa.me/628152313006) 📧
 
 ## プロジェクト 💡
 
