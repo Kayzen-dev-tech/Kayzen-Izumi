@@ -55,6 +55,8 @@ Jika Anda tertarik untuk berkontribusi pada proyek saya, berikut adalah beberapa
 
 Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi. 😊
 
+![My Istri](my.jpg)
+
 # EN
 
 # Hello, I'm Kayzen Izumi 👋 Welcome to my GitHub profile! 🚀
@@ -112,6 +114,8 @@ If you are interested in contributing to my projects, here are some ways:
 
 Thank you for visiting my profile! Feel free to contact me if you have any questions or would like to collaborate. 😊
 
+![My Wife](my.jpg)
+
 # JP
 
 # こんにちは、Kayzen Izumiです 👋 私のGitHubプロフィールへようこそ！🚀
@@ -168,3 +172,6 @@ Thank you for visiting my profile! Feel free to contact me if you have any quest
 ## ありがとうございます！ 🙏
 
 私のプロフィールをご覧いただきありがとうございます！ご質問やコラボレーションのご希望がありましたら、お気軽にご連絡ください。😊
+
+![私の妻](my.jpg)
+
