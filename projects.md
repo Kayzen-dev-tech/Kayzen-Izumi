@@ -1,3 +1,5 @@
+![Foto Profil Saya](profile.jpg)
+
 # ID
 
 ## Proyek yang Direncanakan 🚀
