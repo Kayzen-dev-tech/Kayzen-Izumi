@@ -1,5 +1,7 @@
 ![Foto Profil Saya](profile.jpg)
 
+![My Istri](my.jpg)
+
 # ID
 
 ## Proyek yang Direncanakan 🚀
