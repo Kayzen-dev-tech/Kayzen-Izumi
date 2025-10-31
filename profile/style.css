@@ -1,4 +1,11 @@
 body {
+    background-image: url('my.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+body {
     font-family: sans-serif;
     background-color: #f0f0f0;
     color: #333;
