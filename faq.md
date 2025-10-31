@@ -1,3 +1,5 @@
+![Foto Profil Saya](profile.jpg)
+
 # ID
 
 ## Tanya Jawab (FAQ) 🤔
@@ -9,7 +11,7 @@ A: JavaScript adalah bahasa pemrograman favorit saya saat ini.
 A: Saya sering menggunakan Node.js untuk pengembangan backend.
 
 **Q: Bagaimana cara menghubungi Anda?**
-A: Anda dapat menghubungi saya melalui email di kayzenxd96@gmail.com atau melalui WhatsApp di 628152313006.
+A: Anda dapat menghubungi saya melalui email di kayzenxd96@gmail.com atau melalui WhatsApp di https://wa.me/628152313006.
 
 # EN
 
@@ -22,7 +24,7 @@ A: JavaScript is my favorite programming language at the moment.
 A: I often use Node.js for backend development.
 
 **Q: How can I contact you?**
-A: You can contact me via email at kayzenxd96@gmail.com or via WhatsApp at 628152313006.
+A: You can contact me via email at kayzenxd96@gmail.com or via WhatsApp at https://wa.me/628152313006.
 
 # JP
 
@@ -35,4 +37,4 @@ A: 現在、JavaScriptが一番好きなプログラミング言語です。
 A: バックエンド開発にはNode.jsをよく使います。
 
 **Q: どのように連絡できますか？**
-A: メール（kayzenxd96@gmail.com）またはWhatsApp（628152313006）でご連絡いただけます。
+A: メール（kayzenxd96@gmail.com）またはWhatsApp（https://wa.me/628152313006）でご連絡いただけます。
