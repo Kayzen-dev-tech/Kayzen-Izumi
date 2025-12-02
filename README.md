@@ -1,41 +1,54 @@
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Kayzen Izumi",
+  "url": "https://github.com/Kayzen-dev-tech/Kayzen-Izumi",
+  "alternateName": "Kayzen Izumi"
+}
+</script>
+
 # ID
 
 # Halo, Saya Kayzen Izumi 👋 Selamat datang di profil GitHub saya! 🚀
 
 ![Foto Profil Saya](profile.jpg)
 
-*   [Proyek yang Direncanakan](projects.md)
-*   [Keterampilan](skills.md)
-*   [Tanya Jawab (FAQ)](faq.md)
+- [Proyek yang Direncanakan](projects.md)
+- [Keterampilan](skills.md)
+- [Tanya Jawab (FAQ)](faq.md)
 
 ## Tentang Saya 🧑‍💻
 
 Saya adalah seorang **Pengembang Web** 🌐 dan **Mahasiswa** 🎓 yang bersemangat tentang pengembangan aplikasi web dan otomasi. Saya memiliki pengalaman dalam JavaScript dan Node.js.
 
-*   Saat ini saya sedang belajar tentang: Bot WhatsApp MD 🤖 dan pengembangan backend yang lebih mendalam.
-*   Saya tertarik dengan: Otomasi ⚙️, pengembangan web modern ✨, dan teknologi yang meningkatkan efisiensi ⚡.
-*   Saya sedang mencari kolaborasi dalam: Proyek-proyek open source yang berfokus pada Node.js atau Bot WhatsApp. 🤝
-*   Anda bisa menghubungi saya di: email: kayzenxd96@gmail.com whatsapp: [628152313006](https://wa.me/628152313006) 📧
+- Saat ini saya sedang belajar tentang: Bot WhatsApp MD 🤖 dan pengembangan backend yang lebih mendalam.  
+- Saya tertarik dengan: Otomasi ⚙️, pengembangan web modern ✨, dan teknologi yang meningkatkan efisiensi ⚡.  
+- Saya sedang mencari kolaborasi dalam: Proyek open-source Node.js atau Bot WhatsApp. 🤝  
+- Anda bisa menghubungi saya di:  
+  Email: **kayzenxd96@gmail.com**  
+  WhatsApp: [628152313006](https://wa.me/628152313006) 📧  
 
 ## Proyek 💡
 
 Karena saya belum memiliki proyek unggulan untuk ditampilkan, saya sedang aktif mencari dan mengerjakan proyek-proyek kecil untuk meningkatkan keterampilan. Beberapa ide yang sedang saya eksplorasi:
 
-*   **Kontribusi ke Proyek Open Source:** Mencari proyek-proyek Node.js atau Bot WhatsApp MD yang membutuhkan bantuan. 🔍
-*   **Tutorial dan Contoh Kode:** Membuat tutorial atau contoh kode sederhana untuk membantu pemula dalam JavaScript dan Node.js. 📚
-*   **Eksperimen dengan Bot WhatsApp:** Mengembangkan bot sederhana untuk berbagai keperluan, seperti pengingat atau integrasi dengan layanan lain. 🧪
+- **Kontribusi Open Source:** Node.js atau Bot WhatsApp MD 🔍  
+- **Tutorial & Contoh Kode:** Untuk pemula JavaScript/Node.js 📚  
+- **Eksperimen Bot WhatsApp:** Reminder, integrasi layanan, utilitas 🧪  
 
 ## Statistik GitHub 📊
 
-[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)
+[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)
 
 ## Keterampilan 💪
 
-*   **Bahasa Pemrograman:** JavaScript ☕
-*   **Framework/Library:** Node.js 🚀
-*   **Tools:** Git, Docker 🐳
-*   **Lainnya:** Pemahaman dasar tentang RESTful API, HTML, CSS 🎨
+- **Bahasa:** JavaScript  
+- **Framework/Library:** Node.js  
+- **Tools:** Git, Docker  
+- **Lainnya:** REST API, HTML, CSS  
 
 ## Kontribusi 🔥
 
@@ -43,19 +56,20 @@ Karena saya belum memiliki proyek unggulan untuk ditampilkan, saya sedang aktif 
 
 ## Cara Berkontribusi 🤝
 
-Jika Anda tertarik untuk berkontribusi pada proyek saya, berikut adalah beberapa cara:
-
-1.  Fork repositori 🍴
-2.  Buat branch baru (`git checkout -b fitur/fitur-baru`) 🌿
-3.  Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`) ✅
-4.  Push ke branch (`git push origin fitur/fitur-baru`) ⬆️
-5.  Buat Pull Request 📤
+1. Fork repo 🍴  
+2. Buat branch baru 🌿  
+3. Commit perubahan Anda ✅  
+4. Push ke branch ⬆️  
+5. Buat Pull Request 📤  
 
 ## Terima Kasih! 🙏
 
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi. 😊
+Terima kasih telah mengunjungi profil saya!  
+Jangan ragu untuk menghubungi saya untuk berkolaborasi. 😊
 
 ![My Istri](my.jpg)
+
+---
 
 # EN
 
@@ -63,38 +77,40 @@ Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya j
 
 ![My Profile Photo](profile.jpg)
 
-*   [Planned Projects](projects.md)
-*   [Skills](skills.md)
-*   [Frequently Asked Questions (FAQ)](faq.md)
+- [Planned Projects](projects.md)
+- [Skills](skills.md)
+- [Frequently Asked Questions (FAQ)](faq.md)
 
 ## About Me 🧑‍💻
 
-I am a **Web Developer** 🌐 and **Student** 🎓 passionate about web application development and automation. I have experience in JavaScript and Node.js.
+I am a **Web Developer** 🌐 and **Student** 🎓 passionate about web app development and automation. Experienced in JavaScript and Node.js.
 
-*   Currently, I am learning about: WhatsApp MD Bots 🤖 and deeper backend development.
-*   I am interested in: Automation ⚙️, modern web development ✨, and technologies that improve efficiency ⚡.
-*   I am looking for collaboration in: Open-source projects focused on Node.js or WhatsApp Bots. 🤝
-*   You can contact me at: email: kayzenxd96@gmail.com whatsapp: [628152313006](https://wa.me/628152313006) 📧
+- Currently learning: WhatsApp MD Bots 🤖 and deeper backend development  
+- Interested in: Automation ⚙️, modern web development ✨, efficiency-enhancing technology ⚡  
+- Open to collaboration: Node.js and WhatsApp Bot open-source projects 🤝  
+- Contact me:  
+  Email: **kayzenxd96@gmail.com**  
+  WhatsApp: [628152313006](https://wa.me/628152313006) 📧  
 
 ## Projects 💡
 
-Since I don't have any featured projects to showcase yet, I am actively searching for and working on small projects to improve my skills. Some ideas I am exploring:
+Since I don't have featured projects yet, I am actively working on small projects to improve my skills:
 
-*   **Contribution to Open Source Projects:** Looking for Node.js or WhatsApp MD Bot projects that need assistance. 🔍
-*   **Tutorials and Code Examples:** Creating tutorials or simple code examples to help beginners in JavaScript and Node.js. 📚
-*   **Experimenting with WhatsApp Bots:** Developing simple bots for various purposes, such as reminders or integration with other services. 🧪
+- **Open Source Contributions:** Node.js or WhatsApp MD Bots 🔍  
+- **Tutorials & Examples:** For JavaScript/Node.js beginners 📚  
+- **Bot Experiments:** Utility bots, reminders, integrations 🧪  
 
 ## GitHub Stats 📊
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)
 
 ## Skills 💪
 
-*   **Programming Language:** JavaScript ☕
-*   **Framework/Library:** Node.js 🚀
-*   **Tools:** Git, Docker 🐳
-*   **Others:** Basic understanding of RESTful APIs, HTML, CSS 🎨
+- **Languages:** JavaScript  
+- **Framework/Library:** Node.js  
+- **Tools:** Git, Docker  
+- **Others:** RESTful API, HTML, CSS  
 
 ## Contributions 🔥
 
@@ -102,19 +118,19 @@ Since I don't have any featured projects to showcase yet, I am actively searchin
 
 ## How to Contribute 🤝
 
-If you are interested in contributing to my projects, here are some ways:
-
-1.  Fork the repository 🍴
-2.  Create a new branch (`git checkout -b feature/new-feature`) 🌿
-3.  Commit your changes (`git commit -am 'Add new feature'`) ✅
-4.  Push to the branch (`git push origin feature/new-feature`) ⬆️
-5.  Create a Pull Request 📤
+1. Fork the repository 🍴  
+2. Create a new branch 🌿  
+3. Commit your changes ✅  
+4. Push to branch ⬆️  
+5. Create a Pull Request 📤  
 
 ## Thank You! 🙏
 
-Thank you for visiting my profile! Feel free to contact me if you have any questions or would like to collaborate. 😊
+Thanks for visiting my profile! Feel free to reach out and collaborate. 😊
 
 ![My Wife](my.jpg)
+
+---
 
 # JP
 
@@ -122,38 +138,40 @@ Thank you for visiting my profile! Feel free to contact me if you have any quest
 
 ![私のプロフィール写真](profile.jpg)
 
-*   [計画中のプロジェクト](projects.md)
-*   [スキル](skills.md)
-*   [よくある質問 (FAQ)](faq.md)
+- [計画中のプロジェクト](projects.md)  
+- [スキル](skills.md)  
+- [よくある質問 (FAQ)](faq.md)  
 
 ## 私について 🧑‍💻
 
-私は、ウェブアプリケーション開発と自動化に情熱を注ぐ**ウェブ開発者** 🌐 兼 **学生** 🎓 です。JavaScriptとNode.jsの経験があります。
+私はウェブアプリ開発と自動化に情熱を持つ**ウェブ開発者** 🌐 兼 **学生** 🎓 です。JavaScriptとNode.jsの経験があります。
 
-*   現在、WhatsApp MDボット🤖とより深いバックエンド開発について学んでいます。
-*   自動化⚙️、現代的なウェブ開発✨、そして効率を高める技術⚡に興味があります。
-*   Node.jsやWhatsAppボットに焦点を当てたオープンソースプロジェクトでコラボレーションを探しています。🤝
-*   連絡先：メール：kayzenxd96@gmail.com WhatsApp: [628152313006](https://wa.me/628152313006) 📧
+- 現在学習中：WhatsApp MDボット 🤖、高度なバックエンド  
+- 興味：自動化 ⚙️、最新ウェブ開発 ✨、効率技術 ⚡  
+- コラボ募集：Node.js または WhatsApp ボットのOSSプロジェクト 🤝  
+- 連絡先:  
+  メール: **kayzenxd96@gmail.com**  
+  WhatsApp: [628152313006](https://wa.me/628152313006) 📧  
 
 ## プロジェクト 💡
 
-まだ紹介できる主要なプロジェクトがないため、スキルを向上させるために小さなプロジェクトを積極的に探して取り組んでいます。現在検討しているアイデアは次のとおりです。
+まだ主要プロジェクトはありませんが、スキル向上のために小規模プロジェクトに取り組んでいます。
 
-*   **オープンソースプロジェクトへの貢献：** 支援が必要なNode.jsまたはWhatsApp MDボットプロジェクトを探しています。🔍
-*   **チュートリアルとコード例：** JavaScriptとNode.jsの初心者向けのチュートリアルや簡単なコード例を作成します。📚
-*   **WhatsAppボットの実験：** リマインダーや他のサービスとの統合など、さまざまな目的でシンプルなボットを開発します。🧪
+- **OSS貢献:** Node.js / WhatsApp MD Bot 🔍  
+- **チュートリアル:** 初心者向けJavaScript/Node.js 📚  
+- **ボット実験:** リマインダー、連携サービスなど 🧪  
 
 ## GitHub統計 📊
 
-[![私のGitHub統計](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)
+[![私のGitHub統計](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)  
 [![トップ言語](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)
 
 ## スキル 💪
 
-*   **プログラミング言語：** JavaScript ☕
-*   **フレームワーク/ライブラリ：** Node.js 🚀
-*   **ツール：** Git, Docker 🐳
-*   **その他：** RESTful API、HTML、CSSの基本的な理解 🎨
+- **言語:** JavaScript  
+- **フレームワーク/ライブラリ:** Node.js  
+- **ツール:** Git, Docker  
+- **その他:** REST API, HTML, CSS  
 
 ## 貢献 🔥
 
@@ -161,17 +179,15 @@ Thank you for visiting my profile! Feel free to contact me if you have any quest
 
 ## 貢献方法 🤝
 
-私のプロジェクトに貢献したい場合は、いくつかの方法があります。
-
-1.  リポジトリをフォークする 🍴
-2.  新しいブランチを作成する（`git checkout -b feature/new-feature`）🌿
-3.  変更をコミットする（`git commit -am '新しい機能を追加'`) ✅
-4.  ブランチにプッシュする（`git push origin feature/new-feature`）⬆️
-5.  プルリクエストを作成する 📤
+1. リポジトリをフォーク 🍴  
+2. 新しいブランチを作成 🌿  
+3. 変更をコミット ✅  
+4. プッシュ ⬆️  
+5. プルリクエスト作成 📤  
 
 ## ありがとうございます！ 🙏
 
-私のプロフィールをご覧いただきありがとうございます！ご質問やコラボレーションのご希望がありましたら、お気軽にご連絡ください。😊
+プロフィールをご覧いただきありがとうございます。  
+質問やコラボ希望があればお気軽にどうぞ！😊
 
 ![私の妻](my.jpg)
-
