@@ -1,17 +1,8 @@
-<!-- JSON-LD Structured Data -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Kayzen Izumi",
-  "url": "https://github.com/Kayzen-dev-tech/Kayzen-Izumi",
-  "alternateName": "Kayzen Izumi"
-}
 </script>
 
 <div align="center">
 
-# 🌙 **Kayzen Izumi — Dark Mode Profile**  
+# **Kayzen Izumi**  
 
 ![Profile Banner](profile-dark.jpg)
 
