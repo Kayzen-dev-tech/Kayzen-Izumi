@@ -1,213 +1,221 @@
-Kayzen Izumi - Web Developer
+Kayzen Izumi - Portfolio
 
-<div align="center">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto;">
 
-https://via.placeholder.com/1200x300/1a1a2e/00b4d8?text=Kayzen+Izumi+%7C+Web+Developer+%26+Student
+<!-- Header with Gradient Colors -->
 
-https://img.shields.io/github/followers/Kayzen-dev-tech?style=social
-https://img.shields.io/github/stars/Kayzen-dev-tech?style=social
-https://komarev.com/ghpvc/?username=Kayzen-dev-tech&color=blue
+<div style="
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 30px;
+    border-radius: 15px;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+">
+    <h1 style="font-size: 2.8em; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">👋 Kayzen Izumi</h1>
+    <p style="font-size: 1.3em; opacity: 0.9;">Web Developer & Student | JavaScript & Node.js Enthusiast</p>
+</div>
+
+<!-- Navigation Menu -->
+
+<div style="
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px 0;
+    flex-wrap: wrap;
+">
+    <a href="#about" style="
+        background: linear-gradient(45deg, #36D1DC, #5B86E5);
+        color: white;
+        padding: 10px 25px;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: bold;
+        transition: transform 0.3s;
+    " onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'">🧑‍💻 About</a>
 
 </div>
 
-🌐 Language Versions
+<!-- Language Selector -->
 
-English | Bahasa Indonesia | 日本語
-
----
-
-🇺🇸 English
-
-👋 Hello, I'm Kayzen Izumi
-
-Web Developer & Student passionate about web application development and automation.
-
-🧑‍💻 About Me
-
-· 🔭 Currently working on: WhatsApp MD Bots and Backend Development
-· 🌱 Learning: Node.js, JavaScript, Web Automation
-· 👯 Looking to collaborate on: Open Source Projects
-· 💬 Ask me about: JavaScript, Node.js, Web Development
-· 📫 How to reach me: kayzenxd96@gmail.com
-· ⚡ Fun fact: I love automating repetitive tasks!
-
-📊 GitHub Stats
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=dark
-https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=dark
-https://streak-stats.demolab.com/?user=Kayzen-dev-tech&theme=dark
+<div style="
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+">
+    <button onclick="showLanguage('en')" style="
+        background: #3498db;
+        color: white;
+        border: none;
+        padding: 8px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+    ">🇺🇸 English</button>
 
 </div>
 
-💻 Tech Stack
+<!-- About Section -->
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-
-📂 Featured Projects
-
-(Coming Soon - Actively working on new projects!)
-
-🤝 How to Contribute
-
-1. Fork the repository 🍴
-2. Create new branch (git checkout -b feature/new-feature) 🌿
-3. Commit changes (git commit -am 'Add new feature') ✅
-4. Push to branch (git push origin feature/new-feature) ⬆️
-5. Create Pull Request 📤
-
-📞 Contact
-
-· 📧 Email: kayzenxd96@gmail.com
-· 📱 WhatsApp: +628152313006
-· 💼 GitHub: Kayzen-dev-tech
-
----
-
-🇮🇩 Indonesian
-
-👋 Halo, Saya Kayzen Izumi
-
-Web Developer & Mahasiswa yang bersemangat dalam pengembangan aplikasi web dan otomasi.
-
-🧑‍💻 Tentang Saya
-
-· 🔭 Sedang mengerjakan: Bot WhatsApp MD dan Pengembangan Backend
-· 🌱 Sedang belajar: Node.js, JavaScript, Otomasi Web
-· 👯 Ingin berkolaborasi dalam: Proyek Open Source
-· 💬 Tanya saya tentang: JavaScript, Node.js, Web Development
-· 📫 Hubungi saya: kayzenxd96@gmail.com
-· ⚡ Fakta menarik: Saya suka mengotomasi tugas berulang!
-
-📊 Statistik GitHub
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=dark
-https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=dark
-https://streak-stats.demolab.com/?user=Kayzen-dev-tech&theme=dark
+<div id="about" style="
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 25px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+">
+    <h2 style="color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🧑‍💻 About Me</h2>
 
 </div>
 
-💻 Teknologi
+<!-- Skills Section -->
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-
-📂 Proyek Unggulan
-
-(Segera Hadir - Aktif mengerjakan proyek baru!)
-
-🤝 Cara Berkontribusi
-
-1. Fork repositori 🍴
-2. Buat branch baru (git checkout -b fitur/fitur-baru) 🌿
-3. Commit perubahan (git commit -am 'Tambahkan fitur baru') ✅
-4. Push ke branch (git push origin fitur/fitur-baru) ⬆️
-5. Buat Pull Request 📤
-
-📞 Kontak
-
-· 📧 Email: kayzenxd96@gmail.com
-· 📱 WhatsApp: +628152313006
-· 💼 GitHub: Kayzen-dev-tech
-
----
-
-🇯🇵 日本語
-
-👋 こんにちは、Kayzen Izumiです
-
-ウェブアプリケーション開発と自動化に情熱を持つウェブ開発者兼学生です。
-
-🧑‍💻 私について
-
-· 🔭 現在取り組んでいること: WhatsApp MDボットとバックエンド開発
-· 🌱 学習中: Node.js, JavaScript, ウェブ自動化
-· 👯 コラボレーションしたい: オープンソースプロジェクト
-· 💬 質問があれば: JavaScript, Node.js, ウェブ開発について
-· 📫 連絡方法: kayzenxd96@gmail.com
-· ⚡ 趣味: 繰り返し作業の自動化が好きです！
-
-📊 GitHub統計
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=dark
-https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=dark
-https://streak-stats.demolab.com/?user=Kayzen-dev-tech&theme=dark
+<div id="skills" style="
+    background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 25px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+">
+    <h2 style="color: #2c3e50; border-bottom: 3px solid #2980b9; padding-bottom: 10px;">💪 Skills & Technologies</h2>
 
 </div>
 
-💻 技術スタック
+<!-- Projects Section -->
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-
-📂 注目のプロジェクト
-
-(近日公開 - 新しいプロジェクトに積極的に取り組んでいます！)
-
-🤝 貢献方法
-
-1. フォーク リポジトリ 🍴
-2. 新規ブランチ作成 (git checkout -b feature/new-feature) 🌿
-3. 変更をコミット (git commit -am '新しい機能を追加') ✅
-4. ブランチにプッシュ (git push origin feature/new-feature) ⬆️
-5. プルリクエスト作成 📤
-
-📞 連絡先
-
-· 📧 メール: kayzenxd96@gmail.com
-· 📱 WhatsApp: +628152313006
-· 💼 GitHub: Kayzen-dev-tech
-
----
-
-<div align="center">
-
-⭐ Star this repository if you find it interesting!
-
-Thank you for visiting my profile! 😊
-
-https://img.shields.io/badge/Follow-Kayzen--dev--tech-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/Email-kayzenxd96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div id="projects" style="
+    background: linear-gradient(135deg, #fad0c4 0%, #ffd1ff 100%);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 25px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+">
+    <h2 style="color: #2c3e50; border-bottom: 3px solid #e74c3c; padding-bottom: 10px;">💡 Projects & Activities</h2>
 
 </div>
+
+<!-- Contact Section -->
+
+<div id="contact" style="
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 25px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    color: white;
+">
+    <h2 style="border-bottom: 3px solid rgba(255,255,255,0.3); padding-bottom: 10px;">📞 Contact Me</h2>
+
+</div>
+
+<!-- GitHub Stats -->
+
+<div style="
+    background: linear-gradient(135deg, #434343 0%, #000000 100%);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 25px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    color: white;
+">
+    <h2 style="border-bottom: 3px solid #3498db; padding-bottom: 10px;">📊 GitHub Statistics</h2>
+
+</div>
+
+<!-- Footer -->
+
+<div style="
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    border-top: 2px solid #ecf0f1;
+    color: #7f8c8d;
+">
+    <p>© 2024 Kayzen Izumi. All rights reserved.</p>
+    <p style="font-size: 0.9em;">This portfolio is built with ❤️ using HTML & CSS in GitHub README</p>
+</div>
+
+</div>
+
+<!-- JavaScript for Language Toggle -->
+
+<script>
+// Show default language (English)
+document.getElementById('en-content').style.display = 'block';
+document.getElementById('en-projects').style.display = 'block';
+
+function showLanguage(lang) {
+    // Hide all content
+    document.getElementById('en-content').style.display = 'none';
+    document.getElementById('id-content').style.display = 'none';
+    document.getElementById('jp-content').style.display = 'none';
+    
+    document.getElementById('en-projects').style.display = 'none';
+    document.getElementById('id-projects').style.display = 'none';
+    document.getElementById('jp-projects').style.display = 'none';
+    
+    // Show selected language
+    if (lang === 'en') {
+        document.getElementById('en-content').style.display = 'block';
+        document.getElementById('en-projects').style.display = 'block';
+    } else if (lang === 'id') {
+        document.getElementById('id-content').style.display = 'block';
+        document.getElementById('id-projects').style.display = 'block';
+    } else if (lang === 'jp') {
+        document.getElementById('jp-content').style.display = 'block';
+        document.getElementById('jp-projects').style.display = 'block';
+    }
+}
+</script>
 
 <!-- Schema.org Structured Data -->
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
+  "@type": "Person",
   "name": "Kayzen Izumi",
   "url": "https://github.com/Kayzen-dev-tech",
-  "alternateName": "Kayzen Izumi",
-  "description": "Web Developer and Student passionate about web application development, automation, and WhatsApp MD Bots. Skilled in JavaScript, Node.js, and modern web technologies.",
-  "author": {
-    "@type": "Person",
-    "name": "Kayzen Izumi",
-    "email": "kayzenxd96@gmail.com",
-    "contactPoint": {
-      "@type": "ContactPoint",
-      "contactType": "WhatsApp",
-      "telephone": "+628152313006"
-    }
-  }
+  "image": "https://via.placeholder.com/400x400/3498db/ffffff?text=KZ",
+  "jobTitle": "Web Developer & Student",
+  "sameAs": [
+    "https://github.com/Kayzen-dev-tech"
+  ],
+  "knowsAbout": ["JavaScript", "Node.js", "Web Development", "WhatsApp Bots", "Automation"],
+  "email": "kayzenxd96@gmail.com",
+  "telephone": "+628152313006",
+  "description": "Web Developer and Student passionate about web application development and automation. Skilled in JavaScript, Node.js, and modern web technologies."
 }
 </script>
+
+<style>
+/* Smooth scrolling for anchor links */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    h1 {
+        font-size: 2em !important;
+    }
+    
+    .nav-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .nav-buttons a {
+        width: 80%;
+        margin-bottom: 10px;
+    }
+}
+</style>
