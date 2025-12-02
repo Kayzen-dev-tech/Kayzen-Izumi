@@ -1,5 +1,3 @@
-</script>
-
 <div align="center">
 
 # **Kayzen Izumi**  
