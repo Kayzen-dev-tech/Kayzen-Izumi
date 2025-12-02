@@ -1,221 +1,254 @@
-Kayzen Izumi - Portfolio
+ID
 
-<div align="center" style="font-family: Arial, sans-serif; max-width: 900px; margin: 0 auto;">
+Halo, Saya Kayzen Izumi 👋 Selamat datang di profil GitHub saya! 🚀
 
-<!-- Header with Gradient Colors -->
 
-<div style="
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    padding: 30px;
-    border-radius: 15px;
-    color: white;
-    text-align: center;
-    margin-bottom: 30px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-">
-    <h1 style="font-size: 2.8em; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">👋 Kayzen Izumi</h1>
-    <p style="font-size: 1.3em; opacity: 0.9;">Web Developer & Student | JavaScript & Node.js Enthusiast</p>
-</div>
 
-<!-- Navigation Menu -->
+Proyek yang Direncanakan
 
-<div style="
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    margin: 25px 0;
-    flex-wrap: wrap;
-">
-    <a href="#about" style="
-        background: linear-gradient(45deg, #36D1DC, #5B86E5);
-        color: white;
-        padding: 10px 25px;
-        border-radius: 50px;
-        text-decoration: none;
-        font-weight: bold;
-        transition: transform 0.3s;
-    " onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'">🧑‍💻 About</a>
+Keterampilan
 
-</div>
+Tanya Jawab (FAQ)
 
-<!-- Language Selector -->
 
-<div style="
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin: 20px 0;
-    flex-wrap: wrap;
-">
-    <button onclick="showLanguage('en')" style="
-        background: #3498db;
-        color: white;
-        border: none;
-        padding: 8px 20px;
-        border-radius: 5px;
-        cursor: pointer;
-        font-weight: bold;
-    ">🇺🇸 English</button>
+Tentang Saya 🧑‍💻
 
-</div>
+Saya adalah seorang Pengembang Web 🌐 dan Mahasiswa 🎓 yang bersemangat tentang pengembangan aplikasi web dan otomasi. Saya memiliki pengalaman dalam JavaScript dan Node.js.
 
-<!-- About Section -->
+Saat ini saya sedang belajar tentang: Bot WhatsApp MD 🤖 dan pengembangan backend yang lebih mendalam.
 
-<div id="about" style="
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    padding: 30px;
-    border-radius: 15px;
-    margin: 25px 0;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-">
-    <h2 style="color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px;">🧑‍💻 About Me</h2>
+Saya tertarik dengan: Otomasi ⚙️, pengembangan web modern ✨, dan teknologi yang meningkatkan efisiensi ⚡.
 
-</div>
+Saya sedang mencari kolaborasi dalam: Proyek-proyek open source yang berfokus pada Node.js atau Bot WhatsApp. 🤝
 
-<!-- Skills Section -->
+Anda bisa menghubungi saya di: email: kayzenxd96@gmail.com whatsapp: 628152313006 📧
 
-<div id="skills" style="
-    background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%);
-    padding: 30px;
-    border-radius: 15px;
-    margin: 25px 0;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-">
-    <h2 style="color: #2c3e50; border-bottom: 3px solid #2980b9; padding-bottom: 10px;">💪 Skills & Technologies</h2>
 
-</div>
+Proyek 💡
 
-<!-- Projects Section -->
+Karena saya belum memiliki proyek unggulan untuk ditampilkan, saya sedang aktif mencari dan mengerjakan proyek-proyek kecil untuk meningkatkan keterampilan. Beberapa ide yang sedang saya eksplorasi:
 
-<div id="projects" style="
-    background: linear-gradient(135deg, #fad0c4 0%, #ffd1ff 100%);
-    padding: 30px;
-    border-radius: 15px;
-    margin: 25px 0;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-">
-    <h2 style="color: #2c3e50; border-bottom: 3px solid #e74c3c; padding-bottom: 10px;">💡 Projects & Activities</h2>
+Kontribusi ke Proyek Open Source: Mencari proyek-proyek Node.js atau Bot WhatsApp MD yang membutuhkan bantuan. 🔍
 
-</div>
+Tutorial dan Contoh Kode: Membuat tutorial atau contoh kode sederhana untuk membantu pemula dalam JavaScript dan Node.js. 📚
 
-<!-- Contact Section -->
+Eksperimen dengan Bot WhatsApp: Mengembangkan bot sederhana untuk berbagai keperluan, seperti pengingat atau integrasi dengan layanan lain. 🧪
 
-<div id="contact" style="
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    padding: 30px;
-    border-radius: 15px;
-    margin: 25px 0;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    color: white;
-">
-    <h2 style="border-bottom: 3px solid rgba(255,255,255,0.3); padding-bottom: 10px;">📞 Contact Me</h2>
 
-</div>
+Statistik GitHub 📊
 
-<!-- GitHub Stats -->
 
-<div style="
-    background: linear-gradient(135deg, #434343 0%, #000000 100%);
-    padding: 30px;
-    border-radius: 15px;
-    margin: 25px 0;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-    color: white;
-">
-    <h2 style="border-bottom: 3px solid #3498db; padding-bottom: 10px;">📊 GitHub Statistics</h2>
 
-</div>
 
-<!-- Footer -->
+Keterampilan 💪
 
-<div style="
-    text-align: center;
-    padding: 20px;
-    margin-top: 30px;
-    border-top: 2px solid #ecf0f1;
-    color: #7f8c8d;
-">
-    <p>© 2024 Kayzen Izumi. All rights reserved.</p>
-    <p style="font-size: 0.9em;">This portfolio is built with ❤️ using HTML & CSS in GitHub README</p>
-</div>
+Bahasa Pemrograman: JavaScript ☕
 
-</div>
+Framework/Library: Node.js 🚀
 
-<!-- JavaScript for Language Toggle -->
+Tools: Git, Docker 🐳
 
-<script>
-// Show default language (English)
-document.getElementById('en-content').style.display = 'block';
-document.getElementById('en-projects').style.display = 'block';
+Lainnya: Pemahaman dasar tentang RESTful API, HTML, CSS 🎨
 
-function showLanguage(lang) {
-    // Hide all content
-    document.getElementById('en-content').style.display = 'none';
-    document.getElementById('id-content').style.display = 'none';
-    document.getElementById('jp-content').style.display = 'none';
-    
-    document.getElementById('en-projects').style.display = 'none';
-    document.getElementById('id-projects').style.display = 'none';
-    document.getElementById('jp-projects').style.display = 'none';
-    
-    // Show selected language
-    if (lang === 'en') {
-        document.getElementById('en-content').style.display = 'block';
-        document.getElementById('en-projects').style.display = 'block';
-    } else if (lang === 'id') {
-        document.getElementById('id-content').style.display = 'block';
-        document.getElementById('id-projects').style.display = 'block';
-    } else if (lang === 'jp') {
-        document.getElementById('jp-content').style.display = 'block';
-        document.getElementById('jp-projects').style.display = 'block';
-    }
-}
-</script>
 
-<!-- Schema.org Structured Data -->
+Kontribusi 🔥
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Kayzen Izumi",
-  "url": "https://github.com/Kayzen-dev-tech",
-  "image": "https://via.placeholder.com/400x400/3498db/ffffff?text=KZ",
-  "jobTitle": "Web Developer & Student",
-  "sameAs": [
-    "https://github.com/Kayzen-dev-tech"
-  ],
-  "knowsAbout": ["JavaScript", "Node.js", "Web Development", "WhatsApp Bots", "Automation"],
-  "email": "kayzenxd96@gmail.com",
-  "telephone": "+628152313006",
-  "description": "Web Developer and Student passionate about web application development and automation. Skilled in JavaScript, Node.js, and modern web technologies."
-}
-</script>
 
-<style>
-/* Smooth scrolling for anchor links */
-html {
-    scroll-behavior: smooth;
-}
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .container {
-        padding: 10px;
-    }
-    
-    h1 {
-        font-size: 2em !important;
-    }
-    
-    .nav-buttons {
-        flex-direction: column;
-        align-items: center;
-    }
-    
-    .nav-buttons a {
-        width: 80%;
-        margin-bottom: 10px;
-    }
-}
-</style>
+Cara Berkontribusi 🤝
+
+Jika Anda tertarik untuk berkontribusi pada proyek saya, berikut adalah beberapa cara:
+
+1. Fork repositori 🍴
+
+
+2. Buat branch baru (git checkout -b fitur/fitur-baru) 🌿
+
+
+3. Commit perubahan Anda (git commit -am 'Menambahkan fitur baru') ✅
+
+
+4. Push ke branch (git push origin fitur/fitur-baru) ⬆️
+
+
+5. Buat Pull Request 📤
+
+
+
+Terima Kasih! 🙏
+
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi. 😊
+
+
+
+EN
+
+Hello, I'm Kayzen Izumi 👋 Welcome to my GitHub profile! 🚀
+
+
+
+Planned Projects
+
+Skills
+
+Frequently Asked Questions (FAQ)
+
+
+About Me 🧑‍💻
+
+I am a Web Developer 🌐 and Student 🎓 passionate about web application development and automation. I have experience in JavaScript and Node.js.
+
+Currently, I am learning about: WhatsApp MD Bots 🤖 and deeper backend development.
+
+I am interested in: Automation ⚙️, modern web development ✨, and technologies that improve efficiency ⚡.
+
+I am looking for collaboration in: Open-source projects focused on Node.js or WhatsApp Bots. 🤝
+
+You can contact me at: email: kayzenxd96@gmail.com whatsapp: 628152313006 📧
+
+
+Projects 💡
+
+Since I don't have any featured projects to showcase yet, I am actively searching for and working on small projects to improve my skills. Some ideas I am exploring:
+
+Contribution to Open Source Projects: Looking for Node.js or WhatsApp MD Bot projects that need assistance. 🔍
+
+Tutorials and Code Examples: Creating tutorials or simple code examples to help beginners in JavaScript and Node.js. 📚
+
+Experimenting with WhatsApp Bots: Developing simple bots for various purposes, such as reminders or integration with other services. 🧪
+
+
+GitHub Stats 📊
+
+
+
+
+Skills 💪
+
+Programming Language: JavaScript ☕
+
+Framework/Library: Node.js 🚀
+
+Tools: Git, Docker 🐳
+
+Others: Basic understanding of RESTful APIs, HTML, CSS 🎨
+
+
+Contributions 🔥
+
+
+
+How to Contribute 🤝
+
+If you are interested in contributing to my projects, here are some ways:
+
+1. Fork the repository 🍴
+
+
+2. Create a new branch (git checkout -b feature/new-feature) 🌿
+
+
+3. Commit your changes (git commit -am 'Add new feature') ✅
+
+
+4. Push to the branch (git push origin feature/new-feature) ⬆️
+
+
+5. Create a Pull Request 📤
+
+
+
+Thank You! 🙏
+
+Thank you for visiting my profile! Feel free to contact me if you have any questions or would like to collaborate. 😊
+
+
+
+JP
+
+こんにちは、Kayzen Izumiです 👋 私のGitHubプロフィールへようこそ！🚀
+
+
+
+計画中のプロジェクト
+
+スキル
+
+よくある質問 (FAQ)
+
+
+私について 🧑‍💻
+
+私は、ウェブアプリケーション開発と自動化に情熱を注ぐウェブ開発者 🌐 兼 学生 🎓 です。JavaScriptとNode.jsの経験があります。
+
+現在、WhatsApp MDボット🤖とより深いバックエンド開発について学んでいます。
+
+自動化⚙️、現代的なウェブ開発✨、そして効率を高める技術⚡に興味があります。
+
+Node.jsやWhatsAppボットに焦点を当てたオープンソースプロジェクトでコラボレーションを探しています。🤝
+
+連絡先：メール：kayzenxd96@gmail.com WhatsApp: 628152313006 📧
+
+
+プロジェクト 💡
+
+まだ紹介できる主要なプロジェクトがないため、スキルを向上させるために小さなプロジェクトを積極的に探して取り組んでいます。現在検討しているアイデアは次のとおりです。
+
+オープンソースプロジェクトへの貢献： 支援が必要なNode.jsまたはWhatsApp MDボットプロジェクトを探しています。🔍
+
+チュートリアルとコード例： JavaScriptとNode.jsの初心者向けのチュートリアルや簡単なコード例を作成します。📚
+
+WhatsAppボットの実験： リマインダーや他のサービスとの統合など、さまざまな目的でシンプルなボットを開発します。🧪
+
+
+GitHub統計 📊
+
+
+
+
+スキル 💪
+
+プログラミング言語： JavaScript ☕
+
+フレームワーク/ライブラリ： Node.js 🚀
+
+ツール： Git, Docker 🐳
+
+その他： RESTful API、HTML、CSSの基本的な理解 🎨
+
+
+貢献 🔥
+
+
+
+貢献方法 🤝
+
+私のプロジェクトに貢献したい場合は、いくつかの方法があります。
+
+1. リポジトリをフォークする 🍴
+
+
+2. 新しいブランチを作成する（git checkout -b feature/new-feature）🌿
+
+
+3. 変更をコミットする（git commit -am '新しい機能を追加') ✅
+
+
+4. ブランチにプッシュする（git push origin feature/new-feature）⬆️
+
+
+5. プルリクエストを作成する 📤
+
+
+
+ありがとうございます！ 🙏
+
+私のプロフィールをご覧いただきありがとうございます！ご質問やコラボレーションのご希望がありましたら、お気軽にご連絡ください。😊
+
+
+
+buat seperti itu, tapi gunakan "@context": "https://schema.org",
+"@type": "WebSite",
+"name": "Kayzen Izumi",
+"url": "https://Kayzen-dev-tech/Kayzen-Izumi",
+"alternateName": "Kayzen Izumi".
