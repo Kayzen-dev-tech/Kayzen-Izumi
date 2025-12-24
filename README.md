@@ -1,178 +1,163 @@
-# ID  
+<div align="center">
 
-# Halo, Saya Kayzen Izumi 👋 Selamat datang di profil GitHub saya! 🚀  
+# Halo, Saya Kayzen Izumi 👋  
+### Selamat datang di profil GitHub saya! 🚀
 
-![Foto Profil Saya](profile.jpg)  
+<img src="profile.jpg" alt="Foto Profil Saya" width="200" style="border-radius: 50%;" />
 
-*   [Proyek yang Direncanakan](projects.md)  
-*   [Keterampilan](skills.md)  
-*   [Tanya Jawab (FAQ)](faq.md)  
+<br/><br/>
 
-## Tentang Saya 🧑‍💻  
+[![](https://img.shields.io/badge/Proyek_Saya-Lihat_Disini-blue?style=for-the-badge&logo=github)](projects.md)
+[![](https://img.shields.io/badge/Keterampilan-Lengkap-orange?style=for-the-badge&logo=skillshare)](skills.md)
+[![](https://img.shields.io/badge/FAQ-Tanya_Jawab-green?style=for-the-badge&logo=qa)](faq.md)
 
-Saya adalah seorang **Pengembang Web** 🌐 dan **Mahasiswa** 🎓 yang bersemangat tentang pengembangan aplikasi web dan otomasi. Saya memiliki pengalaman dalam JavaScript dan Node.js.  
+</div>
 
-*   Saat ini saya sedang belajar tentang: Bot WhatsApp MD 🤖 dan pengembangan backend yang lebih mendalam.  
-*   Saya tertarik dengan: Otomasi ⚙️, pengembangan web modern ✨, dan teknologi yang meningkatkan efisiensi ⚡.  
-*   Saya sedang mencari kolaborasi dalam: Proyek-proyek open source yang berfokus pada Node.js atau Bot WhatsApp. 🤝  
-*   Anda bisa menghubungi saya di: email: **kayzenxd96@gmail.com** whatsapp: **[628152313006](https://wa.me/628152313006)** 📧  
+---
 
-## Proyek 💡  
+## 🇮🇩 Tentang Saya 🧑‍💻
 
-Karena saya belum memiliki proyek unggulan untuk ditampilkan, saya sedang aktif mencari dan mengerjakan proyek-proyek kecil untuk meningkatkan keterampilan. Beberapa ide yang sedang saya eksplorasi:  
+Saya adalah seorang **Pengembang Web** 🌐 dan **Mahasiswa** 🎓 yang bersemangat tentang pengembangan aplikasi web dan otomasi. Saya memiliki pengalaman dalam JavaScript dan Node.js.
 
-*   **Kontribusi ke Proyek Open Source:** Mencari proyek-proyek Node.js atau Bot WhatsApp MD yang membutuhkan bantuan. 🔍  
-*   **Tutorial dan Contoh Kode:** Membuat tutorial atau contoh kode sederhana untuk membantu pemula dalam JavaScript dan Node.js. 📚  
-*   **Eksperimen dengan Bot WhatsApp:** Mengembangkan bot sederhana untuk berbagai keperluan, seperti pengingat atau integrasi dengan layanan lain. 🧪  
+* 🔭 **Sedang belajar:** Bot WhatsApp MD 🤖 dan Backend Development.
+* 🌱 **Tertarik pada:** Otomasi ⚙️, Web Modern ✨, dan Efisiensi ⚡.
+* 🤝 **Mencari kolaborasi:** Proyek Open Source (Node.js / WhatsApp Bot).
 
-## Statistik GitHub 📊  
+### 📫 Hubungi Saya
 
-[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)  
+<div align="center">
 
-## Keterampilan 💪  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayzenxd96@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628152313006)
 
-*   **Bahasa Pemrograman:** JavaScript ☕  
-*   **Framework/Library:** Node.js 🚀  
-*   **Tools:** Git, Docker 🐳  
-*   **Lainnya:** Pemahaman dasar tentang RESTful API, HTML, CSS 🎨  
+</div>
 
-## Kontribusi 🔥  
+## 🛠️ Keterampilan & Tools
 
-[![Kontribusi Saya](https://github-readme-streak-stats.herokuapp.com/?user=Kayzen-dev-tech&theme=radical)](https://github.com/Kayzen-dev-tech)  
+<div align="center">
 
-## Cara Berkontribusi 🤝  
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<br/>
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-Jika Anda tertarik untuk berkontribusi pada proyek saya, berikut adalah beberapa cara:  
+</div>
 
-1.  Fork repositori 🍴  
-2.  Buat branch baru (`git checkout -b fitur/fitur-baru`) 🌿  
-3.  Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`) ✅  
-4.  Push ke branch (`git push origin fitur/fitur-baru`) ⬆️  
-5.  Buat Pull Request 📤  
+## 💡 Proyek
 
-## Terima Kasih! 🙏  
+Karena saya belum memiliki proyek unggulan, saya sedang mengerjakan:
+* **Kontribusi Open Source:** Mencari proyek Node.js/WA Bot. 🔍
+* **Tutorial:** Membuat panduan kode sederhana. 📚
+* **Bot WhatsApp:** Eksperimen bot fungsional. 🧪
 
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi. 😊  
+## 📊 Statistik GitHub
 
-![My Istri](my.jpg)  
+<div align="center">
 
+[![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)
+<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)
+<br/>
+[![Kontribusi Saya](https://github-readme-streak-stats.herokuapp.com/?user=Kayzen-dev-tech&theme=radical)](https://github.com/Kayzen-dev-tech)
 
-# EN  
+</div>
 
-# Hello, I'm Kayzen Izumi 👋 Welcome to my GitHub profile! 🚀  
+## 🤝 Cara Berkontribusi
 
-![My Profile Photo](profile.jpg)  
+1.  Fork repositori 🍴
+2.  Buat branch baru (`git checkout -b fitur/fitur-baru`) 🌿
+3.  Commit perubahan (`git commit -am 'Menambahkan fitur baru'`) ✅
+4.  Push ke branch (`git push origin fitur/fitur-baru`) ⬆️
+5.  Buat Pull Request 📤
 
-*   [Planned Projects](projects.md)  
-*   [Skills](skills.md)  
-*   [Frequently Asked Questions (FAQ)](faq.md)  
+<div align="center">
+  <p>Terima kasih telah berkunjung! 😊</p>
+  <img src="my.jpg" alt="My Istri" width="300" style="border-radius: 10px;"/>
+</div>
 
-## About Me 🧑‍💻  
+---
 
-I am a **Web Developer** 🌐 and **Student** 🎓 passionate about web application development and automation. I have experience in JavaScript and Node.js.  
+<details>
+<summary><b>🇺🇸 English Version (Click to Expand)</b></summary>
 
-*   Currently, I am learning about: WhatsApp MD Bots 🤖 and deeper backend development.  
-*   I am interested in: Automation ⚙️, modern web development ✨, and technologies that improve efficiency ⚡.  
-*   I am looking for collaboration in: Open-source projects focused on Node.js or WhatsApp Bots. 🤝  
-*   You can contact me at: email: **kayzenxd96@gmail.com** whatsapp: **[628152313006](https://wa.me/628152313006)** 📧  
+## About Me 🧑‍💻
 
-## Projects 💡  
+I am a **Web Developer** 🌐 and **Student** 🎓 passionate about web application development and automation. I have experience in JavaScript and Node.js.
 
-Since I don't have any featured projects to showcase yet, I am actively searching for and working on small projects to improve my skills. Some ideas I am exploring:  
+* 🔭 **Currently learning:** WhatsApp MD Bots 🤖 and Backend Development.
+* 🌱 **Interested in:** Automation ⚙️, Modern Web ✨, and Efficiency ⚡.
+* 🤝 **Looking for collaboration:** Open-source projects (Node.js / WhatsApp Bots).
 
-*   **Contribution to Open Source Projects:** Looking for Node.js or WhatsApp MD Bot projects that need assistance. 🔍  
-*   **Tutorials and Code Examples:** Creating tutorials or simple code examples to help beginners in JavaScript and Node.js. 📚  
-*   **Experimenting with WhatsApp Bots:** Developing simple bots for various purposes, such as reminders or integration with other services. 🧪  
+### 📫 Contact Me
 
-## GitHub Stats 📊  
+<div align="center">
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayzenxd96@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628152313006)
 
-## Skills 💪  
+</div>
 
-*   **Programming Language:** JavaScript ☕  
-*   **Framework/Library:** Node.js 🚀  
-*   **Tools:** Git, Docker 🐳  
-*   **Others:** Basic understanding of RESTful APIs, HTML, CSS 🎨  
+## 🛠️ Skills & Tools
 
-## Contributions 🔥  
+<div align="center">
 
-[![My Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Kayzen-dev-tech&theme=radical)](https://github.com/Kayzen-dev-tech)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-## How to Contribute 🤝  
+</div>
 
-If you are interested in contributing to my projects, here are some ways:  
+## 💡 Projects
 
-1.  Fork the repository 🍴  
-2.  Create a new branch (`git checkout -b feature/new-feature`) 🌿  
-3.  Commit your changes (`git commit -am 'Add new feature'`) ✅  
-4.  Push to the branch (`git push origin feature/new-feature`) ⬆️  
-5.  Create a Pull Request 📤  
+I am currently exploring:
+* **Open Source Contribution:** Node.js or WhatsApp MD Bot projects. 🔍
+* **Tutorials:** Creating simple code examples. 📚
+* **WhatsApp Bots:** Developing simple automation bots. 🧪
 
-## Thank You! 🙏  
+</details>
 
-Thank you for visiting my profile! Feel free to contact me if you have any questions or would like to collaborate. 😊  
+---
 
-![My Wife](my.jpg)  
+<details>
+<summary><b>🇯🇵 日本語版 (クリックして展開)</b></summary>
 
+## 私について 🧑‍💻
 
-# JP  
+私は、ウェブアプリケーション開発と自動化に情熱を注ぐ**ウェブ開発者** 🌐 兼 **学生** 🎓 です。JavaScriptとNode.jsの経験があります。
 
-# こんにちは、Kayzen Izumiです 👋 私のGitHubプロフィールへようこそ！🚀  
+* 🔭 **学習中:** WhatsApp MDボット🤖、バックエンド開発。
+* 🌱 **興味:** 自動化⚙️、最新のウェブ技術✨、効率化⚡。
+* 🤝 **コラボレーション:** Node.jsやWhatsAppボットのオープンソースプロジェクト。
 
-![私のプロフィール写真](profile.jpg)  
+### 📫 お問い合わせ
 
-*   [計画中のプロジェクト](projects.md)  
-*   [スキル](skills.md)  
-*   [よくある質問 (FAQ)](faq.md)  
+<div align="center">
 
-## 私について 🧑‍💻  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayzenxd96@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628152313006)
 
-私は、ウェブアプリケーション開発と自動化に情熱を注ぐ**ウェブ開発者** 🌐 兼 **学生** 🎓 です。JavaScriptとNode.jsの経験があります。  
+</div>
 
-*   現在、WhatsApp MDボット🤖とより深いバックエンド開発について学んでいます。  
-*   自動化⚙️、現代的なウェブ開発✨、そして効率を高める技術⚡に興味があります。  
-*   Node.jsやWhatsAppボットに焦点を当てたオープンソースプロジェクトでコラボレーションを探しています。🤝  
-*   連絡先：メール：**kayzenxd96@gmail.com** WhatsApp: **[628152313006](https://wa.me/628152313006)** 📧  
+## 🛠️ スキル
 
-## プロジェクト 💡  
+<div align="center">
 
-まだ紹介できる主要なプロジェクトがないため、スキルを向上させるために小さなプロジェクトを積極的に探して取り組んでいます。現在検討しているアイデアは次のとおりです。  
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-*   **オープンソースプロジェクトへの貢献：** 支援が必要なNode.jsまたはWhatsApp MDボットプロジェクトを探しています。🔍  
-*   **チュートリアルとコード例：** JavaScriptとNode.jsの初心者向けのチュートリアルや簡単なコード例を作成します。📚  
-*   **WhatsAppボットの実験：** リマインダーや他のサービスとの統合など、さまざまな目的でシンプルなボットを開発します。🧪  
+</div>
 
-## GitHub統計 📊  
+## 💡 プロジェクト
 
-[![私のGitHub統計](https://github-readme-stats.vercel.app/api?username=Kayzen-dev-tech&show_icons=true&theme=radical)](https://github.com/Kayzen-dev-tech)  
-[![トップ言語](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayzen-dev-tech&layout=compact&theme=radical)](https://github.com/Kayzen-dev-tech)  
+現在取り組んでいること：
+* **オープンソース貢献:** Node.js/WAボットの支援。🔍
+* **チュートリアル:** 初心者向けのコード例作成。📚
+* **WhatsAppボット:** 自動化ボットの実験。🧪
 
-## スキル 💪  
-
-*   **プログラミング言語：** JavaScript ☕  
-*   **フレームワーク/ライブラリ：** Node.js 🚀  
-*   **ツール：** Git, Docker 🐳  
-*   **その他：** RESTful API、HTML、CSSの基本的な理解 🎨  
-
-## 貢献 🔥  
-
-[![私の貢献](https://github-readme-streak-stats.herokuapp.com/?user=Kayzen-dev-tech&theme=radical)](https://github.com/Kayzen-dev-tech)  
-
-## 貢献方法 🤝  
-
-私のプロジェクトに貢献したい場合は、いくつかの方法があります。  
-
-1.  リポジトリをフォークする 🍴  
-2.  新しいブランチを作成する（`git checkout -b feature/new-feature`）🌿  
-3.  変更をコミットする（`git commit -am '新しい機能を追加'`) ✅  
-4.  ブランチにプッシュする（`git push origin feature/new-feature`）⬆️  
-5.  プルリクエストを作成する 📤  
-
-## ありがとうございます！ 🙏  
-
-私のプロフィールをご覧いただきありがとうございます！ご質問やコラボレーションのご希望がありましたら、お気軽にご連絡ください。😊  
-
-![私の妻](my.jpg)
+</details>
