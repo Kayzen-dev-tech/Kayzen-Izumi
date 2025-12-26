@@ -18,7 +18,7 @@ Berikut adalah beberapa proyek yang ingin saya kerjakan di masa depan untuk meng
 
 * **Teknologi:**
     ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-    ![WhatsApp API][(https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://kayzen-api.my.id)
+    ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
 ### 2. 🌐 Aplikasi Web Portfolio Sederhana
 > **Deskripsi:** Sebuah website personal yang dinamis untuk menampilkan daftar proyek, pengalaman, dan informasi kontak saya secara profesional.
